@@ -1,12 +1,5 @@
----
-layout: default
-title: Welcome
-nav_exclude: true
-permalink: /
-redirect_to:
-- /docs/overview
-
----
-
-
-# Welcome to Bold360 iOS SDK ...
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to https://bob.github.io/repo/</title>
+<meta http-equiv="refresh" content="0; URL=http://omerrahmanygenesys.github.io/bold360-mobile-docs-ios/">
+<link rel="canonical" href="http://omerrahmanygenesys.github.io/bold360-mobile-docs-ios/">
