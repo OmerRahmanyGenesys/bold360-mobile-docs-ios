@@ -1,6 +1,0 @@
-theme: "just-the-docs"
-remote_theme: pmarsceill/just-the-docs
-title: bold360 iOS SDK
-baseurl: "/bold360-mobile-docs-ios"
-url: "https://omerrahmanygenesys.github.io"
-color_scheme: ios-scheme
