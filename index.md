@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <meta http-equiv="Refresh" content="10;URL=https://genesys.github.io/bold360-mobile-docs-ios/docs/overview">
