@@ -9,12 +9,12 @@
         window.onload = function () {
             const destination = window.location.href;
             if (window.location.href.includes("omerrahmanygenesys.github.io/bold360-mobile-docs-ios")) {
-                const redirectLocation = window.location.href.replace(
-                    "omerrahmanygenesys.github.io/bold360-mobile-docs-ios",
-                    "genesys.github.io/bold360-mobile-docs-ios"
-                );
+                // const redirectLocation = window.location.href.replace(
+                //     "omerrahmanygenesys.github.io/bold360-mobile-docs-ios",
+                //     "genesys.github.io/bold360-mobile-docs-ios"
+                // );
                 document.getElementById("body").innerHTML = "Bold360AI Mobile documentation has moved into an Genesys organization repository<br/><br/>Redirecting to " + redirectLocation + " ...";
-                window.location.href = redirectLocation;
+                // window.location.href = redirectLocation;
             }
         }
     </script>
