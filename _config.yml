@@ -4,8 +4,6 @@ title: bold360 iOS SDK
 baseurl: "/bold360-mobile-docs-ios"
 url: "https://omerrahmanygenesys.github.io"
 color_scheme: ios-scheme
-plugins: 
-  - jekyll-redirect-from
 
 permalink: pretty
 
